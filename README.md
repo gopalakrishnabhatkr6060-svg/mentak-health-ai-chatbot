@@ -1,1 +1,1 @@
-# mentak-health-ai-chatbot
+# mental-health-ai-chatbot
